@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/recipemaker/static/css/main.45bea271.css",
+    "main.js": "/recipemaker/static/js/main.ddd01d22.js",
+    "static/js/453.21d46939.chunk.js": "/recipemaker/static/js/453.21d46939.chunk.js",
+    "index.html": "/recipemaker/index.html",
+    "main.45bea271.css.map": "/recipemaker/static/css/main.45bea271.css.map",
+    "main.ddd01d22.js.map": "/recipemaker/static/js/main.ddd01d22.js.map",
+    "453.21d46939.chunk.js.map": "/recipemaker/static/js/453.21d46939.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45bea271.css",
+    "static/js/main.ddd01d22.js"
+  ]
+}
